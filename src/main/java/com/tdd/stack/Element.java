@@ -9,9 +9,9 @@ import lombok.Setter;
 @AllArgsConstructor
 @Setter
 @Getter
-public class Element {
+public class Element<T> {
 
-    Object item;
+    T item;
     Element next;
 
 }
