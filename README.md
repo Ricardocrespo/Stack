@@ -1,4 +1,4 @@
-# Stack-TDD
+# Stack
 
 Stack Methods:
 * size
